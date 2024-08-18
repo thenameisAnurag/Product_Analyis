@@ -47,3 +47,11 @@ pip install pandas seaborn matplotlib numpy plotly
 - **Missing Data**: If the dataset has missing or incorrect values, it might affect the analysis results.
 
 Make sure to review and adapt the script according to your specific data and requirements.
+
+
+
+![Screenshot 2024-08-07 105624](https://github.com/user-attachments/assets/5d1746d8-a39c-4adb-963c-fd72bae579ac)
+![Screenshot 2024-08-07 105601](https://github.com/user-attachments/assets/6b75bcc0-2ede-45c9-b555-e090c14c4bf2)
+![Screenshot 2024-08-07 105546](https://github.com/user-attachments/assets/78dd59d4-7fb1-47fa-9d85-05281f766218)
+![Screenshot 2024-08-07 105537](https://github.com/user-attachments/assets/f9a6a22c-a954-44fc-b3ea-a3f674732941)
+
